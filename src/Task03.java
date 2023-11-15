@@ -21,5 +21,6 @@ public class Task03 {
 
         }
         return sum == originalNumber;
+
     }
 }
